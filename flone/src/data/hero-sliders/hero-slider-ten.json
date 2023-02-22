@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Fashion Week",
+    "subtitle": "Men's Wear",
+    "text": "40% off Summer Vacation",
+    "image": "/assets/img/slider/slider-2.png",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 2,
+    "title": "Biggest SALE",
+    "subtitle": "Women's Wear",
+    "text": "40% off Winter Vacation",
+    "image": "/assets/img/slider/slider-2-2.png",
+    "url": "/shop-grid-standard"
+  }
+]

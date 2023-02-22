@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/img/brand-logo/adidas 1.png"
+  },
+  {
+    "id": "2",
+    "image": "/assets/img/brand-logo/raymond.png"
+  },
+  {
+    "id": "3",
+    "image": "/assets/img/brand-logo/levi's 1.png"
+  },
+  {
+    "id": "4",
+    "image": "/assets/img/brand-logo/h&m.png"
+  },
+  {
+    "id": "5",
+    "image": "/assets/img/brand-logo/nike 1.png"
+  },
+  {
+    "id": "6",
+    "image": "/assets/img/brand-logo/puma.png"
+  },
+  {
+    "id":"7",
+    "image": "/assets/img/brand-logo/philips.png"
+  },
+  {
+    "id":"8",
+    "image": "/assets/img/brand-logo/godrej.png"
+  },
+  {
+    "id":"9",
+    "image": "/assets/img/brand-logo/hp.png"
+  },
+  {
+    "id":"10",
+    "image": "/assets/img/brand-logo/dell.png"
+  }
+]
